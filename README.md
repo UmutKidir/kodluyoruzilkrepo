@@ -33,4 +33,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [def]: https://www.hizliresim.com/9f09cye
 
 # Patika
-[Patika](patika.dev)
+[Patika](https://patika.dev)
